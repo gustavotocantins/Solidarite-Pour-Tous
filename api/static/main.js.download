@@ -1,1 +1,0 @@
-{(function($){jQuery(document).ready(function(){var screenWidth=window.innerWidth;var screenHeight=window.innerHeight;jQuery('<i class="fasolid- fa-solid-house" aria-hidden="true"></i>').prependTo('.blog-breadcrumb .home');jQuery('#newsletter-rodape input[name="LNAME"]').val('Cadastro Rápido')})})(jQuery)}
