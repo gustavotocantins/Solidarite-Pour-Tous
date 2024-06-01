@@ -8,5 +8,9 @@ app.static_folder = 'static'
 def index():
     return render_template('index.html')
 
+@app.route('/opportunites')
+def oportunidades():
+    return render_template('oportunidades.html')
+
 if __name__ == '__main__':
     app.run()
